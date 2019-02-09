@@ -1,0 +1,82 @@
+body{
+background-color:#d9d9f0;
+color: aliceblue;
+font-family: verdana;
+font-size: 12px;
+margin: 15px;
+line-height: 1.6em; 
+}
+
+.box{
+    border: 5px;
+    background-color: #fff;
+    padding: 0px;
+    overflow: auto;
+}
+.box .center{
+    display: inline;
+    float: left;
+    background-color: #9ce5a2;
+    height: 100px;
+    margin: 0;
+    margin-left: 24.5%;
+}
+
+.center h1{
+    margin-top: 35px;
+}
+
+.tags{
+display: inline;
+float: left;
+}
+
+
+.img-Scott{
+Width: 130px;
+float: left;
+margin-top: 10px;
+margin-right: 10px;
+}
+
+
+
+.container {
+
+    border: 0;
+    color: black;
+    background: #fffdfe;
+    margin-top: 33px;
+    margin-left: 321px;
+    width: 677px;
+    padding: 10px;
+
+}
+.h3 {
+    border-bottom: 1px solid black;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgray;
+    color: white;
+    text-align: center;  
+    border-top: #9ce5a2 solid 5px;
+}
+
+.header {
+    
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    color: white;
+    text-align: center;
+    
+ }
+
+
+
